@@ -1,0 +1,146 @@
+===APP NOTES===
+---------------
+
+
+#NOTES
+
+
+
+#DESCRIPTION
+
+
+
+
+#FLOW 
+
+  *clientside*
+
+
+  *serverside*
+
+
+#QUESTIONS
+
+
+
+#DEBUGGING
+
+
+#SERVER START
+
+
+#LOGINS & PASSWORDS
+
+*Clientside*
+
+*Serverside*
+
+
+
+
+TECHNOLOGY STACK AND TOOLS
+--------------------------
+
+
+#FULLSTACK
+
+
+  *Languages*
+   - Language
+
+  *Frameworks*
+
+        *Testing Frameworks*
+        - Framework
+
+
+  *Libraries*
+
+  *Template Engines*
+
+
+
+#FRONTEND
+
+  *Languages*
+   - JavaScript
+
+  *Frameworks*
+
+
+        *Theming Frameworks*
+
+
+  *Libraries*
+
+  *Template Engines*
+
+  *Clientside Host*
+
+
+#BACKEND
+
+
+  *Languages*
+   - Solidity
+
+  *Frameworks*
+
+        *Testing Frameworks*
+        - Truffle
+          . Configuration
+            +
+          . Addresses
+        - Ganache CLI
+
+
+
+
+#BLOCKCHAIN
+
+
+  *webThree Library*
+  - web3
+
+  *Ethereum Node API Provider*
+  - Alchemy
+
+  *Testnets*
+    -<testnet>
+      . Configuration
+
+      . Addresses
+
+
+
+#OTHER
+
+
+  *Account Manager*
+
+  *Tools*
+
+  *Dependencies*
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
